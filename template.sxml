@@ -1,0 +1,8 @@
+'(html
+        (head
+            (link (@ (href "main.css")))
+            (script (@ (type "module") (src "main.js"))))
+        (body
+            (main
+                (article
+                    (p)))))
